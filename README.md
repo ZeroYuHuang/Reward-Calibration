@@ -1,5 +1,5 @@
 # Post-hoc Reward calibration
-This repo contains the code for the paper **Post-hoc Reward Calibration: A Case Study on Length Bias**. We propose to use Locally Weighted Regression (LWR) for bias estimation, which is then removed, thereby approximating the underlying true reward. Focusing on the prevalent length bias, we validate the proposed method in three different settings: 
+This repo contains the code for the paper [**Post-hoc Reward Calibration: A Case Study on Length Bias**](https://arxiv.org/pdf/2409.17407). We propose to use Locally Weighted Regression (LWR) for bias estimation, which is then removed, thereby approximating the underlying true reward. Focusing on the prevalent length bias, we validate the proposed method in three different settings: 
 
 1. Calibrated Reward for RewardBench benchmark.
 2. Calibrated Reward for LLMs evaluation.
